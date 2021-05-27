@@ -1,3 +1,5 @@
+# HALLO WELT
+
 # Rails Kickoff – Tailwind
 A rapid Rails 6 application template for personal use. This particular template utilizes [Tailwind CSS](https://tailwindcss.com/), a utility-first CSS framework for rapid UI development.
 
